@@ -1,0 +1,62 @@
+#username
+{
+  height: 30px;
+    width: 100%;
+    box-shadow: 40%;
+    border-radius: 5px;
+}
+#centered-div {
+  border: ridge;
+  border-radius: 20px;
+    width: 15%; /* adjust the width as needed */
+    margin: auto; /* this will center the div */
+    background-color: white ; /* add some background color to see the div */
+    padding: 5%; /* add some padding to see the div */
+    text-align: center; /* center the text inside the div */
+  }
+
+  .style{
+    background-image: url(home1.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:100% 100%;
+  }
+  .login{
+    color: black;
+    background-color: rgb(253, 248, 243);
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 10px;
+    border: 3px solid black;
+  }
+  button:hover {
+    color: orangered;
+  }
+ h3{
+  text-align:center;
+ }
+ nav{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 100px;
+  color: white;
+ }
+footer{
+  color: white;
+  font-size: medium;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: end;
+}
+.icon-link{
+  justify-content: space-between;
+#back{
+  background-color: azure;
+  border: 3px solid black;
+}
+h4{
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 12%;
+  border-top: 12%;
+  padding-top: 3%;
+  
+}
+
